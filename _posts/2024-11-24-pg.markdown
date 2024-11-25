@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "美丽的草原，我的家"
+subtitle:   ""
+date:       2024-11-24 23:25
+author:     "ym"
+header-img: "img/header/20170830.jpg"
+header-mask: 0.5
+catalog: true
+tags:
+    - music
+    - life
+---
+
+<iframe src="https://rumble.com/embed/v4fx7t6/?pub=3ecnru" frameborder="0" height="360" width="640" class="rumble"></iframe>

@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "测试"
+date:       2024-11-26 23:55
+author:     "ym"
+header-img: "img/header/20151124.jpg"
+header-mask: 0.5
+catalog: true
+tags:
+    - culture
+    - life
+---
+
+这是测试。

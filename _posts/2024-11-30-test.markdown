@@ -1,0 +1,16 @@
+---
+layout: post
+title: 测试
+date: 2024-11-30 17:41
+author:     "brite"
+header-img: "img/header/20151124.jpg"
+header-mask: 0.5
+catalog: true
+tags:
+    - static-blog
+    - testing
+---
+
+这是测试。
+
+看看如何？
